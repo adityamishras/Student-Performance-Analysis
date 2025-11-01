@@ -1,0 +1,41 @@
+Student_ID,Gender,Study_Hours,Attendance,Parent_Education,Test_Score
+1,Male,5,90,Graduate,85
+2,Female,3,80,High School,70
+3,Female,7,95,Postgraduate,92
+4,Male,2,60,High School,50
+5,Male,4,75,Graduate,72
+6,Female,6,92,Postgraduate,88
+7,Male,3,78,High School,65
+8,Female,5,85,Graduate,79
+9,Male,8,98,Postgraduate,95
+10,Female,4,82,High School,75
+11,Male,6,88,Graduate,81
+12,Female,2,65,High School,55
+13,Male,7,94,Postgraduate,91
+14,Female,5,89,Graduate,83
+15,Male,3,70,High School,62
+16,Female,8,97,Postgraduate,94
+17,Male,4,79,Graduate,74
+18,Female,6,91,High School,86
+19,Male,5,84,Graduate,77
+20,Female,3,68,High School,59
+21,Male,7,96,Postgraduate,93
+22,Female,4,81,Graduate,76
+23,Male,2,55,High School,45
+24,Female,5,87,Postgraduate,82
+25,Male,6,90,Graduate,84
+26,Female,3,72,High School,68
+27,Male,8,99,Postgraduate,96
+28,Female,4,83,Graduate,78
+29,Male,5,86,High School,80
+30,Female,7,93,Postgraduate,89
+31,Male,3,66,High School,58
+32,Female,6,90,Graduate,85
+33,Male,4,77,High School,71
+34,Female,5,88,Postgraduate,84
+35,Male,7,95,Graduate,90
+36,Female,2,62,High School,52
+37,Male,6,91,Postgraduate,87
+38,Female,4,80,Graduate,73
+39,Male,5,85,High School,76
+40,Female,3,74,Graduate,69
